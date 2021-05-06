@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/una-language/example-express.git"
+    "url": "git+https://github.com/una-language/example-node.git"
   },
   "author": "Sergey Shpadyrev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/una-language/example-express/issues"
+    "url": "https://github.com/una-language/example-node/issues"
   },
-  "homepage": "https://github.com/una-language/example-express#readme"
+  "homepage": "https://github.com/una-language/example-node#readme"
 }
