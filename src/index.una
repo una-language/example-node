@@ -1,0 +1,8 @@
+= fibonacci -> index
+  ? (> index 1)
+    +
+      fibonacci (- index 1) 
+      fibonacci (- index 2)
+    index
+
+console.log (fibonacci 10)
